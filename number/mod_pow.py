@@ -13,3 +13,4 @@ fun mod_pow(x:Long,n:Long,p: Long): Long{
     }
     return ans
 }
+//デカイ値を3つ目の引数を入れれば普通のpow
